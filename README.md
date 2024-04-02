@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to My Data Science Journey 
-
 ## About Me 🌱
 
 Hello! I'm Melanie Niu, a senior student at the University of Toronto majoring in environmental studies and biology. 
