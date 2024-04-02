@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to My Data Science Journey 🔭
+# Welcome to My Data Science Journey 
 
 ## About Me 🌱
 
